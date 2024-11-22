@@ -1,17 +1,15 @@
-# Stoneborn: Missing Mods
+## Supported Mods
 
-Adds Stoneborn support for a few mods that other add-ons don't support.
+*Also supports the JEI recipe categories for each mod.*
 
 <br />
 
-## Supported Mods
+* The custom machines from [the modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2)
 
-*Also supportes the JEI recipe categories for each mod.*
+<br />
 
-* The custom machines from [the modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2).
-
-* [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) (Fixes the Fletching Table's JEI category since [Modded Compat](https://www.curseforge.com/minecraft/texture-packs/stoneborn-modded-compatibility-sbmc) already adds it)
-* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) (Fixes the Botanical Brewery's JEI category)
+* [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) (just fixes the Fletching Table's JEI category since [Modded Compat](https://www.curseforge.com/minecraft/texture-packs/stoneborn-modded-compatibility-sbmc) already adds it)
+* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 * [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
 * [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (JEI category only)
 * [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
@@ -23,13 +21,3 @@ Adds Stoneborn support for a few mods that other add-ons don't support.
 * [Thermal Series](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
 * [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)
 * [Thermal Extra](https://www.curseforge.com/minecraft/mc-mods/thermal_extra)
-
-<br />
-
-## Links
-
-[Issue Tracker](https://github.com/vizthex123/StonebornMissingMods/issues)
-
-[CurseForge](https://curseforge.com/minecraft/texture-packs/stoneborn-missing-mods)
-
-[Modrinth](https://modrinth.com/project/stoneborn-missing-mods)
