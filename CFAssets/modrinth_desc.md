@@ -9,7 +9,7 @@ Feel free to suggest support I should add on the [issue tracker](https://github
 <br />
 
 
-## Supported Mods
+# Supported Mods
 
 *Also supports the JEI recipe categories for each mod.*
 
@@ -17,7 +17,11 @@ Feel free to suggest support I should add on the [issue tracker](https://github
 
 * The custom machines from [the modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2)
 
+* [Botania](https://modrinth.com/mod/botania) (Fixes the Botanical Brewery's JEI category)
 * [Extended Crafting](https://modrinth.com/mod/extended-crafting)
+* [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (JEI category only)
+* [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing)
+* [Nature's Aura](https://modrinth.com/mod/natures-aura)
 * [Thermal Series](https://modrinth.com/mod/thermal-expansion)
 * [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)
 * [Thermal Extra](https://modrinth.com/mod/thermal-extra)
@@ -26,12 +30,6 @@ Feel free to suggest support I should add on the [issue tracker](https://github
 
 ## Planned Support
 
-* [Apotheosis](https://modrinth.com/mod/apotheosis) (Fixes the JEI category since [Modded Compat](https://www.curseforge.com/minecraft/texture-packs/stoneborn-modded-compatibility-sbmc) already adds it)
-* [Botania](https://modrinth.com/mod/botania) (Fixes the Botanical Brewery's JEI category)
-* [FTB Quests](www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (JEI category only)
-* [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing)
 * [Lightman's Currency](https://modrinth.com/mod/lightmans-currency)
 * [Lightman's Currency Tech](https://modrinth.com/mod/lc-tech)
 * [Malum](https://modrinth.com/mod/malum)
-* [Netherific](https://modrinth.com/mod/netherific)
-* [Nature's Aura](https://modrinth.com/mod/natures-aura)
