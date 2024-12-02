@@ -9,10 +9,41 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v1.0
+
+*This update adds all the support I initially planned (in addition to five other mods), so we're finally at v1.0!*
+
+*Feel free to suggest other mods to add support for - just make sure to check if another Stoneborn add-on does it, as this one is meant to cover mods that better add-ons don't do.*
+
+<br />
+
+Fixed the incorrect decal spacing on Thermal Series UIs<br />
+Finished Thermal Series support (realized I missed quite a few buttons)<br />
+Changed the colour of button icons on Thermal Series and Industrial Foregoing UIs
+- If y'all think it was better beforehand, let me know and I can revert it.
+
+<br />
+
+Mod support added:
+- Blood Magic
+- Botania *(Trinket Case and Flower Pouch UIs)*
+- Clayworks
+- Hostile Neural Networks
+- Lightman's Currency
+- Lightman's Currency Tech
+- Malum
+- Scannable
+- Simply Jetpacks 2
+- Woodworks
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## v0.5
 
 Fixed missing pixels on several progress arrows from Extended Crafting<br />
-Fixed filled Auto Table arrows (from Extended Crafting) not matching their unfilled ones
+Fixed filled Extended Crafting's Auto Table arrows not matching their unfilled ones
 
 Mod support added:
 - Botania (Botanical Brewery JEI fix)
