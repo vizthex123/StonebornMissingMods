@@ -1,14 +1,14 @@
 # CurseForge
 
+### 1.18+
+
 * The custom machines from [the modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2)
 
-* [The Aurorian](https://www.curseforge.com/minecraft/mc-mods/the-aurorian)
 * [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 * [Clayworks](https://www.curseforge.com/minecraft/mc-mods/clayworks)
 * [Crafting Automat](https://www.curseforge.com/minecraft/mc-mods/crafting-automat)
 * [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
-* [Forestry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition)
 * [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (JEI category only)
 * [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
 * [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
@@ -25,17 +25,24 @@
 
 <br />
 
+### 1.19+
+
+* [The Aurorian](https://www.curseforge.com/minecraft/mc-mods/the-aurorian)
+* [Forestry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition)
+
+<br />
+
 # Modrinth
+
+### 1.18+
 
 * The custom machines from [the modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2)
 
-* [The Aurorian](https://modrinth.com/mod/the-aurorian)
 * [Blood Magic](https://modrinth.com/mod/blood-magic)
 * [Botania](https://modrinth.com/mod/botania)
 * [Clayworks](https://modrinth.com/mod/clayworks)
 * [Crafting Automat](https://www.curseforge.com/minecraft/mc-mods/crafting-automat)
 * [Extended Crafting](https://modrinth.com/mod/extended-crafting)
-* [Forestry: Community Edition](https://modrinth.com/mod/forestry-community-edition)
 * [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (JEI category only)
 * [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
 * [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing)
@@ -49,6 +56,15 @@
 * [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)
 * [Thermal Extra](https://modrinth.com/mod/thermal-extra)
 * [Woodworks](https://modrinth.com/mod/woodworks)
+
+<br />
+
+### 1.19+
+
+* [The Aurorian](https://modrinth.com/mod/the-aurorian)
+* [Forestry: Community Edition](https://modrinth.com/mod/forestry-community-edition)
+
+
 
 <br />
 

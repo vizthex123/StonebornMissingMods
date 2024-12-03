@@ -11,6 +11,16 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 ## v1.1
 
+### v1.1 - 1.18 only
+
+Fixed the Basic Table's crafting slots having the wrong textures [Extended Crafting]<br />
+Updated the UIs for the Weaver's Workbench and Spirit Pouch [Malum]
+
+Mod support added:
+- Crafting Automat
+
+<br />
+
 ### v1.1 - 1.19 only
 
 Ported to 1.19
