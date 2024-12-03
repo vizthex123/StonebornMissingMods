@@ -9,6 +9,24 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v1.1
+
+### v1.1 - 1.19 only
+
+Ported to 1.19
+
+Updated Extended Crafting support to match its new asset system<br />
+Updated the UIs for the Weaver's Workbench and Spirit Pouch [Malum]
+
+Mod support added:
+- The Aurorian
+- Crafting Automat
+- Forestry: Community Edition
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## v1.0
 
 *This update adds all the support I initially planned (in addition to five other mods), so we're finally at v1.0!*
