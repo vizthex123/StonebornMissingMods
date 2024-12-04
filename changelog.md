@@ -9,6 +9,28 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v1.2
+
+*There's a lot of mod support I'd like to add, but I'm holding out hope that the modded compat add-on gets ported (since it does a vastly better job for the mods I want to add support for). So, if it doesn't get ported I'll try to add support myself.*
+
+Ported to 1.20.1.
+
+Retextured item slots in Malum's JEI tabs
+- Sadly, I can't backport this change since the assets either don't exist or are buried somewhere (even the dev wasn't sure about it lol) - but at least they finally match on this version.
+
+Added gold coloured text for Crafting Automat
+- I can't do this for every mod (since most re-use the block name, and changing the block's name to gold looks wrong) - but I will try to do it for any mods that use a separate lang line for container UIs.
+
+Mod support added:
+- Crafting Tweaks
+- Industrial Foregoing Souls
+- Maulm (the 2 new JEI tabs that were added)
+- Thermal Extra (it's got machines in this version)
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## v1.1
 
 ### v1.1 - 1.18 only

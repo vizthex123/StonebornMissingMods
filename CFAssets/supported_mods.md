@@ -32,6 +32,17 @@
 
 <br />
 
+### 1.20+
+
+* [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
+* [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)
+
+
+
+<br />
+
+
+
 # Modrinth
 
 ### 1.18+
@@ -64,7 +75,12 @@
 * [The Aurorian](https://modrinth.com/mod/the-aurorian)
 * [Forestry: Community Edition](https://modrinth.com/mod/forestry-community-edition)
 
+<br />
 
+### 1.20+
+
+* [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks)
+* [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls)
 
 <br />
 

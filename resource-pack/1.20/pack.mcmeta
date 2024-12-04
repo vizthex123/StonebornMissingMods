@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "pack_format": 15,
+		"supported_formats": [
+			18,
+			22,
+			32
+		],
+        "description": "Adds Stoneborn support for a few mods that other add-ons have missed."
+    }
+}

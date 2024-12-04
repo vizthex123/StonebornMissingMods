@@ -1,5 +1,7 @@
 I made this for [my modpack](https://www.curseforge.com/minecraft/modpacks/teoe-2) (well, [all of them](https://www.curseforge.com/members/vizthex/projects?page=1&pageSize=20&sortBy=ReleaseDate&sortOrder=Desc&classIds=4471) really) because none of the mod compat add-ons I found for [Stoneborn](https://modrinth.com/resourcepack/stoneborn) supported the mods this one does, or they have a few broken implementations (e.g. all of Botania's JEI categories are fine except for the Botanical Brewery if you've got the [Modded Compatibility](https://www.curseforge.com/minecraft/texture-packs/stoneborn-modded-compatibility-sbmc) add-on).
 
+*I'm hoping someone else adds support for these mods and does it better (as I can't texture for the life of me), but until then we're stuck with this add-on.*
+
 Due to this, I highly recommend installing [Modded Compatibility GUI](https://www.curseforge.com/minecraft/texture-packs/stoneborn-modded-compatibility-sbmc) and [Stoneborn - Extended](https://www.curseforge.com/minecraft/texture-packs/stoneborn-extended) (or [Meï's Additions for Modded GUIs](https://www.curseforge.com/minecraft/texture-packs/stoneborn-meis-additions-for-modded-guis) if you're on 1.20.1+) and any other mod support add-ons you can find (as they'd do a much better job than I ever could).
 
 Feel free to suggest support I should add on the [issue tracker](https://github.com/vizthex123/StonebornMissingMods/issues) or [discord server](https://discord.com/invite/NtwzA6X).
@@ -39,3 +41,10 @@ Feel free to suggest support I should add on the [issue tracker](https://github
 
 * [The Aurorian](https://modrinth.com/mod/the-aurorian)
 * [Forestry: Community Edition](https://modrinth.com/mod/forestry-community-edition)
+
+<br />
+
+### 1.20+
+
+* [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks)
+* [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls)
