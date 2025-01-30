@@ -8,6 +8,7 @@
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 * [Clayworks](https://www.curseforge.com/minecraft/mc-mods/clayworks)
 * [Crafting Automat](https://www.curseforge.com/minecraft/mc-mods/crafting-automat)
+* [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
 * [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
 * [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (JEI category only)
 * [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
@@ -34,7 +35,6 @@
 
 ### 1.20+
 
-* [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
 * [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)
 
 
@@ -53,6 +53,7 @@
 * [Botania](https://modrinth.com/mod/botania)
 * [Clayworks](https://modrinth.com/mod/clayworks)
 * [Crafting Automat](https://www.curseforge.com/minecraft/mc-mods/crafting-automat)
+* [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks)
 * [Extended Crafting](https://modrinth.com/mod/extended-crafting)
 * [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (JEI category only)
 * [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
@@ -79,7 +80,6 @@
 
 ### 1.20+
 
-* [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks)
 * [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls)
 
 <br />

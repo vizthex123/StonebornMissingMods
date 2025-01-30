@@ -40,8 +40,8 @@ Mod support added:
 
 ### v1.2 - 1.19 only
 
-Removed Blood Magic support since it's not on this version
-Renamed Thermal Systeams' folder to match the mod ID
+Removed Blood Magic support since it's not on this version<br />
+Renamed Thermal Systeams' folder to match the mod ID<br />
 Colourized the text on Crafting Automat's UI
 
 Mod support added:
@@ -51,7 +51,7 @@ Mod support added:
 
 ### v1.2 - 1.18 only
 
-Fixed the folder for Thermal Systeams not matching its mod ID
+Fixed the folder for Thermal Systeams not matching its mod ID<br />
 Colourized the text on Crafting Automat's UI
 
 Mod support added:
