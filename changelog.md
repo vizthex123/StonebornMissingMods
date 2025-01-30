@@ -9,6 +9,15 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v1.3
+
+Added support for Forestry: Community Edition<br />
+Fixed Lightman's Currency's wallet UIs not rendering properly if you used newer versions of the mod ([reported by DankestO](https://github.com/vizthex123/StonebornMissingMods/issues/1))
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## v1.2
 
 *There's a lot of mod support I'd like to add, but I'm holding out hope that the modded compat add-on gets ported (since it does a vastly better job for the mods I want to add support for). So, if it doesn't get ported I'll try to add support myself.*
