@@ -13,7 +13,7 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 *There's a lot of mod support I'd like to add, but I'm holding out hope that the modded compat add-on gets ported (since it does a vastly better job for the mods I want to add support for). So, if it doesn't get ported I'll try to add support myself.*
 
-Ported to 1.20.1.
+Ported to 1.20.1
 
 Retextured item slots in Malum's JEI tabs
 - Sadly, I can't backport this change since the assets either don't exist or are buried somewhere (even the dev wasn't sure about it lol) - but at least they finally match on this version.
@@ -27,21 +27,21 @@ Mod support added:
 - Maulm (the 2 new JEI tabs that were added)
 - Thermal Extra (it's got machines in this version)
 
+<br />
+
+### v1.2 - 1.18 only
+
+Fixed the folder for Thermal Systeams not matching its mod ID
+Colourized the text on Crafting Automat's UI
+
+Mod support added:
+- Crafting Tweaks
+
 <br /> <br />
 
 --------------------------------------------------
 
 ## v1.1
-
-### v1.1 - 1.18 only
-
-Fixed the Basic Table's crafting slots having the wrong textures [Extended Crafting]<br />
-Updated the UIs for the Weaver's Workbench and Spirit Pouch [Malum]
-
-Mod support added:
-- Crafting Automat
-
-<br />
 
 ### v1.1 - 1.19 only
 
@@ -54,6 +54,16 @@ Mod support added:
 - The Aurorian
 - Crafting Automat
 - Forestry: Community Edition
+
+<br />
+
+### v1.1 - 1.18 only
+
+Fixed the Basic Table's crafting slots having the wrong textures [Extended Crafting]<br />
+Updated the UIs for the Weaver's Workbench and Spirit Pouch [Malum]
+
+Mod support added:
+- Crafting Automat
 
 <br /> <br />
 
