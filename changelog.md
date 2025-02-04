@@ -9,7 +9,36 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v1.4
+
+### 1.20 only
+
+Made the Curios slots for the Deep Learner, Jetpack, and Wallet use the same colours as Minecraft does for empty gear slots
+
+Added the brick background to the Crafting Automat's UI
+- I plan to add it to other blocks in the next update, but for now I figured I could slap it into this one as a test run
+
+Colourized the text for a few blocks from Lightman's Currency
+- Most of the mod doesn't use the proper translation keys, so I might remove this in the future
+
+Colourized the text in Scannable's UIs
+- I can't do the main header though. Ah well.
+
+Added support for the following mods:
+- Applied Energistics 2 (based on the one done by Fr_z_n's pack)
+- Applied Energistics 2 Wireless Terminals
+- Curios API
+- Dis-Enchanting Table
+- Railcraft Reborn
+- Roughly Enough Items (based on the one done by Fr_z_n's pack)
+- TrashCan (by Reedomu)
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.3
+
+### 1.20 only
 
 Added support for Forestry: Community Edition<br />
 Fixed Lightman's Currency's wallet UIs not rendering properly if you used newer versions of the mod ([reported by DankestO](https://github.com/vizthex123/StonebornMissingMods/issues/1))
@@ -17,8 +46,9 @@ Fixed Lightman's Currency's wallet UIs not rendering properly if you used newer 
 <br /> <br />
 
 --------------------------------------------------
-
 ## v1.2
+
+### 1.20 only
 
 *There's a lot of mod support I'd like to add, but I'm holding out hope that the modded compat add-on gets ported (since it does a vastly better job for the mods I want to add support for). So, if it doesn't get ported I'll try to add support myself.*
 
@@ -60,7 +90,6 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-
 ## v1.1
 
 ### v1.1 - 1.19 only
@@ -88,7 +117,6 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-
 ## v1.0
 
 *This update adds all the support I initially planned (in addition to five other mods), so we're finally at v1.0!*
@@ -119,7 +147,6 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-
 ## v0.5
 
 Fixed missing pixels on several progress arrows from Extended Crafting<br />
@@ -134,7 +161,6 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-
 ## v0.1
 
 Initial release cuz I got tired of doing UI textures lol.

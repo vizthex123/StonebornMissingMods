@@ -1,5 +1,7 @@
 Sindavar33 for making Stoneborn (best UI texture pack - fight me) {I also stole the Furnace and Stonecutter UIs for the Clayworks and Woodworks support. No clue why the mod devs didn't make them copy the vanilla stations, but whatever.}
 
-KingLemming & Team CoFH for making the Thermal mods (even though the way they handle UI assets is annoying af!). I've used them ever since I got the game, and it's consistently been the best tech mod (I still miss Tesseracts though :'c).
+The ARASH on the Stoneborn discord server for giving me the brick background texture. No way I would've gotten it otherwise lol.
+
+KingLemming & Team CoFH for making the Thermal mods (even though the way they handle UI assets is annoying - but ultimately better than anything I would've done lol. I just wish all the UIs were in a single mod or something). I've used them ever since I got the game, and it's consistently been the best tech mod (I still miss Tesseracts though :'c).
 
 Also all the devs of all the other mods this supports (can't make a support pack without mods to support, after all).

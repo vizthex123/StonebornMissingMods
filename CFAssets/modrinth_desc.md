@@ -46,5 +46,11 @@ Feel free to suggest support I should add on the [issue tracker](https://github
 
 ### 1.20+
 
-* [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks)
+* [Applied Energistics 2](https://modrinth.com/mod/ae2)
+* [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
+* [Curios API](https://modrinth.com/mod/curios)
+* [Dis-Enchanting Table](https://modrinth.com/mod/dis-enchanting-table)
 * [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls)
+* [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn)
+* [Roughly Enough Items](https://modrinth.com/mod/rei)
+* [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)

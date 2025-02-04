@@ -47,5 +47,11 @@ Feel free to suggest support I should add in the comments, on the [issue tracke
 
 ### 1.20+
 
-* [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
+* [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+* [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
+* [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
+* [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
 * [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)
+* [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
+* [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+* [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
