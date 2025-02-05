@@ -38,6 +38,8 @@
 * [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon) (JEI category only)
 * [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 * [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
+* [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+* [Cosmetic Armour Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 * [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 * [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
 * [Masterful Machinery](https://www.curseforge.com/minecraft/mc-mods/masterful-machinery)
@@ -45,7 +47,7 @@
 * [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 * [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 * [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
-
+* [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
 <br /> <br />
 
@@ -90,6 +92,8 @@
 * [Ad Astra: Giselle Addon](https://modrinth.com/mod/ad-astra-giselle-addon) (JEI category only)
 * [Applied Energistics 2](https://modrinth.com/mod/ae2)
 * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
+* [Better Advancements](https://modrinth.com/mod/better-advancements)
+* [Cosmetic Armour Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 * [Curios API](https://modrinth.com/mod/curios)
 * [Dis-Enchanting Table](https://modrinth.com/mod/dis-enchanting-table)
 * [Masterful Machinery](https://modrinth.com/mod/masterful-machinery)
@@ -97,6 +101,7 @@
 * [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn)
 * [Roughly Enough Items](https://modrinth.com/mod/rei)
 * [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
+* [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
 <br />
 

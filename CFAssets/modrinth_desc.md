@@ -49,6 +49,8 @@ Feel free to suggest support I should add on the [issue tracker](https://github
 * [Ad Astra: Giselle Addon](https://modrinth.com/mod/ad-astra-giselle-addon) (JEI category only)
 * [Applied Energistics 2](https://modrinth.com/mod/ae2)
 * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
+* [Better Advancements](https://modrinth.com/mod/better-advancements)
+* [Cosmetic Armour Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 * [Curios API](https://modrinth.com/mod/curios)
 * [Dis-Enchanting Table](https://modrinth.com/mod/dis-enchanting-table)
 * [Masterful Machinery](https://modrinth.com/mod/masterful-machinery)
@@ -56,3 +58,4 @@ Feel free to suggest support I should add on the [issue tracker](https://github
 * [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn)
 * [Roughly Enough Items](https://modrinth.com/mod/rei)
 * [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
+* [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)

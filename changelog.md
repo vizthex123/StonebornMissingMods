@@ -9,6 +9,23 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v1.4.2
+
+*I missed more stuff ffs. I hate making tiny hotfixes, man ;-;*
+
+Fixed Crafting Automat's storage slots not rendering<br />
+Fixed the Deep Learner slot not being the proper colour
+
+Added support for the following mods:
+- AppleSkin (based on Fr_z_n's pack)
+- Better Advancements (based on Fr_z_n's pack)
+- Cosmetic Armour Reworked (based on Fr_z_n's pack)
+- The Twilight Forest
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.4.1
 
 *I missed a few things in v1.4, oof*
