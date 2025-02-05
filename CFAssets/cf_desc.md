@@ -22,7 +22,7 @@ Feel free to suggest support I should add in the comments, on the [issue tracke
 * [Clayworks](https://www.curseforge.com/minecraft/mc-mods/clayworks)
 * [Crafting Automat](https://www.curseforge.com/minecraft/mc-mods/crafting-automat)
 * [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
-* [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (JEI category only)
+* [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) *(JEI category only)*
 * [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
 * [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 * [Lightman's Currency](https://www.curseforge.com/minecraft/mc-mods/lightmans-currency)
@@ -47,10 +47,12 @@ Feel free to suggest support I should add in the comments, on the [issue tracke
 
 ### 1.20+
 
+* [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon) *(JEI category only)*
 * [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 * [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
 * [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 * [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
+* [Masterful Machinery](https://www.curseforge.com/minecraft/mc-mods/masterful-machinery)
 * [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)
 * [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 * [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)

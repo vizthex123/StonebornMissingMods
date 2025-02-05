@@ -35,19 +35,21 @@
 
 ### 1.20+
 
+* [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon) (JEI category only)
 * [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 * [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
 * [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 * [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
+* [Masterful Machinery](https://www.curseforge.com/minecraft/mc-mods/masterful-machinery)
 * [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)
 * [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 * [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 * [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
 
 
-<br />
+<br /> <br />
 
-
+--------------------------------------------------
 # Modrinth
 
 ### 1.18+
@@ -85,10 +87,12 @@
 
 ### 1.20+
 
+* [Ad Astra: Giselle Addon](https://modrinth.com/mod/ad-astra-giselle-addon) (JEI category only)
 * [Applied Energistics 2](https://modrinth.com/mod/ae2)
 * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 * [Curios API](https://modrinth.com/mod/curios)
 * [Dis-Enchanting Table](https://modrinth.com/mod/dis-enchanting-table)
+* [Masterful Machinery](https://modrinth.com/mod/masterful-machinery)
 * [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls)
 * [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn)
 * [Roughly Enough Items](https://modrinth.com/mod/rei)

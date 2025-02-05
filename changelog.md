@@ -9,6 +9,16 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v1.4.1
+
+*I missed a few things in v1.4, oof*
+
+Added support for the JEI categories from Ad Astra: Giselle Addon<br />
+Added support for Masterful Machinery
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.4
 
 ### 1.20 only
@@ -40,8 +50,9 @@ Added support for the following mods:
 
 ### 1.20 only
 
-Added support for Forestry: Community Edition<br />
 Fixed Lightman's Currency's wallet UIs not rendering properly if you used newer versions of the mod ([reported by DankestO](https://github.com/vizthex123/StonebornMissingMods/issues/1))
+
+Added support for Forestry: Community Edition
 
 <br /> <br />
 
