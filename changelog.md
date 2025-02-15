@@ -9,7 +9,42 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v2.0
+
+Compressed all the files - which is mostly irrelevant for the compressed version that you download, but oh well
+- I also tweaked a few random things in various files while doing this (mainly updating a bunch of icons so they're not jet black)
+
+Fixed all button selectors not having the 1-pixel indent<br />
+Fixed some selection outlines overriding the button's icon<br />
+Fixed the Sky Stone Chest's UI not being coloured gold like it should<br />
+Made the long arrow for the Material Stonework Factory's JEI tab match Stoneborn's arrow style<br />
+Added a better background for Twilight Forest's uncrafting table (made by The ARASH on the Stoneborn discord server)
+
+Added the brick background to all the Crafting Table and Furnace variants<br />
+- Also added Stoneborn's fancy slot highlight system-inator to them
+
+Added support for the following mods:
+- Bigger Reactors
+- Building Gadgets
+- Charging Gadgets
+- Chicken Chunks
+- Deep Resonance
+- EnderIO
+- Gendustry: Community Edition
+- LaserIO
+- Mining Gadgets
+- Pretty Pipes
+- Project Red (all modules)
+- Quark (Matrix Enchanting table is based on Fr_z_n's pack)
+- RFTools (all modules)
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.4.2
+
+### v1.4.2 -1.20 only
 
 *I missed more stuff ffs. I hate making tiny hotfixes, man ;-;*
 
@@ -28,6 +63,8 @@ Added support for the following mods:
 --------------------------------------------------
 ## v1.4.1
 
+### v1.4.1 - 1.20 only
+
 *I missed a few things in v1.4, oof*
 
 Added support for the JEI categories from Ad Astra: Giselle Addon<br />
@@ -38,7 +75,7 @@ Added support for Masterful Machinery
 --------------------------------------------------
 ## v1.4
 
-### 1.20 only
+### v1.4 - 1.20 only
 
 Made the Curios slots for the Deep Learner, Jetpack, and Wallet use the same colours as Minecraft does for empty gear slots
 
@@ -58,14 +95,14 @@ Added support for the following mods:
 - Dis-Enchanting Table
 - Railcraft Reborn
 - Roughly Enough Items (based on the one done by Fr_z_n's pack)
-- TrashCan (by Reedomu)
+- TrashCan (the one by Reedomu)
 
 <br /> <br />
 
 --------------------------------------------------
 ## v1.3
 
-### 1.20 only
+### v1.3 - 1.20 only
 
 Fixed Lightman's Currency's wallet UIs not rendering properly if you used newer versions of the mod ([reported by DankestO](https://github.com/vizthex123/StonebornMissingMods/issues/1))
 
@@ -76,7 +113,7 @@ Added support for Forestry: Community Edition
 --------------------------------------------------
 ## v1.2
 
-### 1.20 only
+### v1.2 -1.20 only
 
 *There's a lot of mod support I'd like to add, but I'm holding out hope that the modded compat add-on gets ported (since it does a vastly better job for the mods I want to add support for). So, if it doesn't get ported I'll try to add support myself.*
 

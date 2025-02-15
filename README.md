@@ -12,6 +12,12 @@ Feel free to suggest mod support on the [issue tracker](https://github.com/vizth
 
 <br />
 
+## Known Issues
+
+*View the list [here](https://github.com/vizthex123/StonebornMissingMods/blob/main/known-issues.md)
+
+<br />
+
 ## Links
 
 [Issue Tracker](https://github.com/vizthex123/StonebornMissingMods/issues)

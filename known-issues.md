@@ -1,0 +1,6 @@
+- EnderIO's button backgrounds don't match due to their assets not being editable by resource packs. One of the devs said that will change "eventually™", but I'm not sure how long that will be (hope it gets fixed on the 1.20.1 version though).
+- Gendustry's fluid icon isn't colourized cuz I can't find the texture for it.
+- Quark's Feeding Trough doesn't have support because I can't find the texture for it.
+- Railcraft's rolling machines' JEI tabs are offset by quite a bit. I have no idea what's causing this, but I can't fix it.
+- A lot of RFTools' buttons & whatnot don't match the Stoneborn style. I have no idea where the assets for them are stored, and can't fix it until I can find those. The Counter is also missing support because I can't find its GUI file.
+- Thermal Expansion's JEI tabs for the Furnace and Induction Smelter have the Stone Brick background instead of the normal Stoneborn one. This is due all of TE's machines just copying the machine's UI for JEI compat rather than having a separate image for it (like most mods do). To fix it, I just have to remove the Stone Brick background - which I may do in the future, but for now it's a tolerable annoyance.

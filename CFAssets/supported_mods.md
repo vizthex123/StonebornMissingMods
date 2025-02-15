@@ -19,9 +19,13 @@
 * [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 * [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)
 * [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)
-* [Thermal Series](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
-* [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)
+* [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+* [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)
+* [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
+* [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+* [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
 * [Thermal Extra](https://www.curseforge.com/minecraft/mc-mods/thermal_extra)
+* [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)
 * [Woodworks](https://www.curseforge.com/minecraft/mc-mods/woodworks)
 
 <br />
@@ -33,21 +37,45 @@
 
 <br />
 
-### 1.20+
+### 1.20
 
 * [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon) (JEI category only)
-* [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 * [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
+* [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 * [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+* [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors)
+* [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+* [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)
+* [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8)
 * [Cosmetic Armour Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 * [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
+* [Deep Resonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)
 * [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
-* [Masterful Machinery](https://www.curseforge.com/minecraft/mc-mods/masterful-machinery)
+* [EnderIO](https://www.curseforge.com/minecraft/mc-mods/enderio)
+* [Gendustry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/gendustry-community-edition)
 * [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)
+* [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)
+* [Masterful Machinery](https://www.curseforge.com/minecraft/mc-mods/masterful-machinery)
+* [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+* [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
+* [Project Red - Core](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
+* [Project Red - Expansion](https://www.curseforge.com/minecraft/mc-mods/project-red-expansion)
+* [Project Red - Exploration](https://www.curseforge.com/minecraft/mc-mods/project-red-exploration)
+* [Project Red - Fabrication](https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication)
+* [Project Red - Integration](https://www.curseforge.com/minecraft/mc-mods/project-red-integration)
+* [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+* [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
+* [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
+* [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)
+* [RFTools Dimensions](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)
+* [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)
+* [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)
+* [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
 * [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 * [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
-* [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+* [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
+
 
 <br /> <br />
 
@@ -73,9 +101,13 @@
 * [Nature's Aura](https://modrinth.com/mod/natures-aura)
 * [Scannable](https://modrinth.com/mod/scannable)
 * [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)
-* [Thermal Series](https://modrinth.com/mod/thermal-expansion)
-* [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)
+* [Thermal Cultivation](https://modrinth.com/mod/thermal-cultivation)
+* [Thermal Dynamics](https://modrinth.com/mod/thermal-dynamics)
+* [Thermal Foundation](https://modrinth.com/mod/thermal-foundation)
+* [Thermal Expansion](https://modrinth.com/mod/thermal-expansion)
+* [Thermal Innovation](https://modrinth.com/mod/thermal-innovation)
 * [Thermal Extra](https://modrinth.com/mod/thermal-extra)
+* [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)
 * [Woodworks](https://modrinth.com/mod/woodworks)
 
 <br />
@@ -87,21 +119,44 @@
 
 <br />
 
-### 1.20+
+### 1.20
 
 * [Ad Astra: Giselle Addon](https://modrinth.com/mod/ad-astra-giselle-addon) (JEI category only)
 * [Applied Energistics 2](https://modrinth.com/mod/ae2)
 * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 * [Better Advancements](https://modrinth.com/mod/better-advancements)
+* [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors)
+* [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+* [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)
+* [Chicken Chunks](https://modrinth.com/mod/chicken-chunks)
 * [Cosmetic Armour Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 * [Curios API](https://modrinth.com/mod/curios)
+* [Deep Resonance](https://modrinth.com/mod/deep-resonance)
 * [Dis-Enchanting Table](https://modrinth.com/mod/dis-enchanting-table)
-* [Masterful Machinery](https://modrinth.com/mod/masterful-machinery)
+* [EnderIO](https://modrinth.com/mod/enderio)
+* [Gendustry: Community Edition](https://modrinth.com/mod/gendustry-community-edition)
 * [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls)
+* [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)
+* [Masterful Machinery](https://modrinth.com/mod/masterful-machinery)
+* [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+* [Pretty Pipes](https://modrinth.com/mod/pretty-pipes)
+* [Project Red - Core](https://modrinth.com/mod/project-red-core)
+* [Project Red - Expansion](https://modrinth.com/mod/project-red-expansion)
+* [Project Red - Exploration](https://modrinth.com/mod/project-red-exploration)
+* [Project Red - Fabrication](https://modrinth.com/mod/project-red-fabrication)
+* [Project Red - Integration](https://modrinth.com/mod/project-red-integration)
+* [Quark](https://modrinth.com/mod/quark)
+* [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
+* [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
+* [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)
+* [RFTools Dimensions](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)
+* [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)
+* [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)
+* [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
 * [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn)
 * [Roughly Enough Items](https://modrinth.com/mod/rei)
-* [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+* [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
 
 <br />
 
