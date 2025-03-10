@@ -8,7 +8,7 @@ Feel free to suggest mod support on the [issue tracker](https://github.com/vizth
 
 ## Supported Mods
 
-*View the list [here](https://github.com/vizthex123/StonebornMissingMods/blob/main/CFAssets/supported_mods.md) (or check either project page).*
+*View the list [here](https://github.com/vizthex123/StonebornMissingMods/blob/main/CFAssets/support_table.md) (or check either project page).*
 
 <br />
 

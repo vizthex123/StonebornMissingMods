@@ -39,6 +39,7 @@
 
 ### 1.20
 
+* [The Aether](https://www.curseforge.com/minecraft/mc-mods/the-aether)
 * [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon) (JEI category only)
 * [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
 * [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
@@ -73,6 +74,8 @@
 * [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
 * [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 * [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+* [Spectrum](https://www.curseforge.com/minecraft/mc-mods/spectrum)
+* [Spell Engine](https://www.curseforge.com/minecraft/mc-mods/spell-engine)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 * [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
 
@@ -121,6 +124,7 @@
 
 ### 1.20
 
+* [The Aether](https://modrinth.com/mod/aether)
 * [Ad Astra: Giselle Addon](https://modrinth.com/mod/ad-astra-giselle-addon) (JEI category only)
 * [Applied Energistics 2](https://modrinth.com/mod/ae2)
 * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
@@ -155,6 +159,8 @@
 * [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
 * [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn)
 * [Roughly Enough Items](https://modrinth.com/mod/rei)
+* [Spectrum](https://modrinth.com/mod/spectrum)
+* [Spell Engine](https://modrinth.com/mod/spell-engine)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 * [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)
 

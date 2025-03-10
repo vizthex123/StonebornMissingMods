@@ -9,6 +9,25 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v2.1
+
+Changed support list to a support table
+- Makes things more readable & scalable
+
+Updated the colour of icons for Quark's buttons<br />
+Vastly improved Nature's Aura's Altar JEI tab with a new arrow texture (made by xKeru on the Stoneborn discord server)
+
+Added support for the following mods:<br />
+*Requested by TrilleX on the discord server*
+
+- The Aether (only a couple UIs that [Mei's Additions](https://www.curseforge.com/minecraft/texture-packs/stoneborn-meis-additions-for-modded-guis) missed)
+- Spectrum (although it's not working for some reason. I don't use fabric and have no clue what's wrong, so if anyone knows why it's not loading in please let me know)
+- Spell Engine (also not working because fabric dumb)
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v2.0
 
 Compressed all the files - which is mostly irrelevant for the compressed version that you download, but oh well
@@ -31,7 +50,7 @@ Added support for the following mods:
 - Deep Resonance
 - EnderIO
 - Gendustry: Community Edition
-- LaserIO
+- LaserIO (and the [unofficial extended life](https://www.curseforge.com/minecraft/mc-mods/laserio-uel) port)
 - Mining Gadgets
 - Pretty Pipes
 - Project Red (all modules)
@@ -67,8 +86,9 @@ Added support for the following mods:
 
 *I missed a few things in v1.4, oof*
 
-Added support for the JEI categories from Ad Astra: Giselle Addon<br />
+Added support for the JEI category from Ad Astra: Giselle Addon<br />
 Added support for Masterful Machinery
+
 
 <br /> <br />
 
@@ -97,6 +117,7 @@ Added support for the following mods:
 - Roughly Enough Items (based on the one done by Fr_z_n's pack)
 - TrashCan (the one by Reedomu)
 
+
 <br /> <br />
 
 --------------------------------------------------
@@ -107,6 +128,7 @@ Added support for the following mods:
 Fixed Lightman's Currency's wallet UIs not rendering properly if you used newer versions of the mod ([reported by DankestO](https://github.com/vizthex123/StonebornMissingMods/issues/1))
 
 Added support for Forestry: Community Edition
+
 
 <br /> <br />
 
@@ -152,6 +174,7 @@ Colourized the text on Crafting Automat's UI
 Mod support added:
 - Crafting Tweaks
 
+
 <br /> <br />
 
 --------------------------------------------------
@@ -178,6 +201,7 @@ Updated the UIs for the Weaver's Workbench and Spirit Pouch [Malum]
 
 Mod support added:
 - Crafting Automat
+
 
 <br /> <br />
 
@@ -209,6 +233,7 @@ Mod support added:
 - Simply Jetpacks 2
 - Woodworks
 
+
 <br /> <br />
 
 --------------------------------------------------
@@ -222,6 +247,7 @@ Mod support added:
 - FTB Quests (quest reward JEI tab)
 - Industrial Foregoing
 - Nature's Aura
+
 
 <br /> <br />
 
