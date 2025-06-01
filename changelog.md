@@ -9,7 +9,33 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v2.2
+
+### v2.2 - 1.20 only
+
+Finally got support for Quark's Crafter and Feeding Trough working (stupid things are stored in a different file path ffs)
+
+Fixed the Project Bench's inventory slots being hidden
+- Also reduced the height of its brick background
+
+Changed the brick background on Crafting Automat to only be behind the crafting area<br />
+Changed icon text to be white so it's consistent with other icons
+- This affects the following mods: Quark
+
+Removed Spectrum & Trinkets support since they're not working, and I don't use Fabric so idc enough to keep up with it
+- If you want Trinkets support, [this pack](https://modrinth.com/resourcepack/trinkets-for-stoneborn) adds it (not sure if it works though - and it's not on CurseForge, for some reason)
+
+Mod support added:
+- AdminShop Overhauled
+- Research Lab
+- Simple Quarry
+
+<br /> <br />
+
+--------------------------------------------------
 ## v2.1
+
+### v2.1 - 1.20 only
 
 Changed support list to a support table
 - Makes things more readable & scalable
@@ -29,6 +55,8 @@ Added support for the following mods:<br />
 
 --------------------------------------------------
 ## v2.0
+
+### v2.0 - 1.20 only
 
 Compressed all the files - which is mostly irrelevant for the compressed version that you download, but oh well
 - I also tweaked a few random things in various files while doing this (mainly updating a bunch of icons so they're not jet black)
@@ -63,14 +91,14 @@ Added support for the following mods:
 --------------------------------------------------
 ## v1.4.2
 
-### v1.4.2 -1.20 only
+### v1.4.2 - 1.20 only
 
 *I missed more stuff ffs. I hate making tiny hotfixes, man ;-;*
 
 Fixed Crafting Automat's storage slots not rendering<br />
 Fixed the Deep Learner slot not being the proper colour
 
-Added support for the following mods:
+Added support for the following mods that I forgot to add in v1.4:
 - AppleSkin (based on Fr_z_n's pack)
 - Better Advancements (based on Fr_z_n's pack)
 - Cosmetic Armour Reworked (based on Fr_z_n's pack)
@@ -97,7 +125,7 @@ Added support for Masterful Machinery
 
 ### v1.4 - 1.20 only
 
-Made the Curios slots for the Deep Learner, Jetpack, and Wallet use the same colours as Minecraft does for empty gear slots
+Made the Curios slots for the Deep Learner, Jetpack, and Wallet use the same colours as base Stoneborn does for empty gear slots
 
 Added the brick background to the Crafting Automat's UI
 - I plan to add it to other blocks in the next update, but for now I figured I could slap it into this one as a test run
@@ -109,12 +137,12 @@ Colourized the text in Scannable's UIs
 - I can't do the main header though. Ah well.
 
 Added support for the following mods:
-- Applied Energistics 2 (based on the one done by Fr_z_n's pack)
+- Applied Energistics 2 (based on the support added by Fr_z_n's pack)
 - Applied Energistics 2 Wireless Terminals
 - Curios API
 - Dis-Enchanting Table
 - Railcraft Reborn
-- Roughly Enough Items (based on the one done by Fr_z_n's pack)
+- Roughly Enough Items (based on the support added by Fr_z_n's pack)
 - TrashCan (the one by Reedomu)
 
 

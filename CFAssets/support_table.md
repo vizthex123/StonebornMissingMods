@@ -5,7 +5,8 @@
 | [The modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2)																			|✔		|			|			|v1.0			|
 | [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)																											|			|			|✔		|v2.1			|
 | [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon) *(JEI category only)*						|			|			|✔		|v1.4.1		|
-| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/ae2)                                                      				    						|			|			|✔		|v1.4			|
+| [AdminShop Overhauled](https://www.curseforge.com/minecraft/mc-mods/adminshop)																				|			|			|✔		|v2.2			|
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)                                                      				|			|			|✔		|v1.4			|
 | [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)	|			|			|✔		|v1.4			|
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)																											|			|			|✔		|v1.4.2		|
 | [The Aurorian](https://www.curseforge.com/minecraft/mc-mods/the-aurorian)																								|			|✔		|			|v1.1			|
@@ -46,6 +47,8 @@
 | [Project Red - Fabrication](https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication)															|			|			|✔		|v2.0			|
 | [Project Red - Integration](https://www.curseforge.com/minecraft/mc-mods/project-red-integration)															|			|			|✔		|v2.0			|
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)																														|			|			|✔		|v2.0			|
+| [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)																					|			|			|✔		|v1.4			|
+| [Research Lab](https://www.curseforge.com/minecraft/mc-mods/research-lab)																								|			|			|✔		|v2.2			|
 | [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)																								|			|			|✔		|v2.0			|
 | [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)																						|			|			|✔		|v2.0			|
 | [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)																						|			|			|✔		|v2.0			|
@@ -53,9 +56,9 @@
 | [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)																							|			|			|✔		|v2.0			|
 | [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)																						|			|			|✔		|v2.0			|
 | [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)																							|			|			|✔		|v2.0			|
-| [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)																					|			|			|✔		|v1.4			|
 | [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/rei)																								|			|			|✔		|v1.4			|
 | [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)																										|✔		|✔		|✔		|v1.0			|
+| [Simple Quarry](https://www.curseforge.com/minecraft/mc-mods/simple-quarry)																							|			|			|✔		|v2.2			|
 | [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)																				|✔		|✔		|✔		|v1.0			|
 | [Spectrum](https://www.curseforge.com/minecraft/mc-mods/spectrum)																											|			|			|✔		|v2.1			|
 | [Spell Engine](https://www.curseforge.com/minecraft/mc-mods/spell-engine)																									|			|			|✔		|v2.1			|
@@ -79,6 +82,7 @@
 | [The modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2)										|✔		|			|			|v1.0			|
 | [The Aether](https://modrinth.com/mod/aether)																												|			|			|✔		|v2.1			|
 | [Ad Astra: Giselle Addon](https://modrinth.com/mod/ad-astra-giselle-addon) *(JEI category only)*							|			|			|✔		|v1.4.1		|
+| [AdminShop Overhauled](https://modrinth.com/mod/adminshop)																				|			|			|✔		|v2.2			|
 | [Applied Energistics 2](https://modrinth.com/mod/ae2)                                                      				    						|			|			|✔		|v1.4			|
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)	|			|			|✔		|v1.4			|
 | [AppleSkin](https://modrinth.com/mod/appleskin)																											|			|			|✔		|v1.4.2		|
@@ -91,7 +95,7 @@
 | [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)											|			|			|✔		|v2.0			|
 | [Chicken Chunks](https://modrinth.com/mod/chicken-chunks)																						|			|			|✔		|v2.0			|
 | [Clayworks](https://modrinth.com/mod/clayworks)																											|			|			|✔		|v1.0			|
-| [Cosmetic Armour Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)			|			|✔		|v1.4.2		|
+| [Cosmetic Armour Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)			|			|✔		|          |v1.4.2		|
 | [Crafting Automat](https://www.curseforge.com/minecraft/mc-mods/crafting-automat)											|✔		|			|✔		|v1.1			|
 | [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks)																						|✔		|			|✔		|v1.2			|
 | [Curios API](https://modrinth.com/mod/curios)																												|			|        	|✔		|v1.4			|
@@ -120,6 +124,8 @@
 | [Project Red - Fabrication](https://modrinth.com/mod/project-red-fabrication)															|			|			|✔		|v2.0			|
 | [Project Red - Integration](https://modrinth.com/mod/project-red-integration)															|			|			|✔		|v2.0			|
 | [Quark](https://modrinth.com/mod/quark)																														|			|			|✔		|v2.0			|
+| [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn)																						|			|			|✔		|v1.4			|
+| [Research Lab](https://www.curseforge.com/minecraft/mc-mods/research-lab)															|			|			|✔		|v2.2			|
 | [RFTools Base](https://modrinth.com/mod/rftools-base)																									|			|			|✔		|v2.0			|
 | [RFTools Builder](https://modrinth.com/mod/rftools-builder)																							|			|			|✔		|v2.0			|
 | [RFTools Control](https://modrinth.com/mod/rftools-control)																						|			|			|✔		|v2.0			|
@@ -127,9 +133,9 @@
 | [RFTools Power](https://modrinth.com/mod/rftools-power)																							|			|			|✔		|v2.0			|
 | [RFTools Storage](https://modrinth.com/mod/rftools-storage)																						|			|			|✔		|v2.0			|
 | [RFTools Utility](https://modrinth.com/mod/rftools-utility)																								|			|			|✔		|v2.0			|
-| [Railcraft Reborn](https://modrinth.com/mod/railcraft-reborn)																						|			|			|✔		|v1.4			|
 | [Roughly Enough Items](https://modrinth.com/mod/rei)																									|			|			|✔		|v1.4			|
 | [Scannable](https://modrinth.com/mod/scannable)																											|✔		|✔		|✔		|v1.0			|
+| [Simple Quarry](https://modrinth.com/mod/simple-quarry)																							|			|			|✔		|v2.2			|
 | [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)											|✔		|✔		|✔		|v1.0			|
 | [Spectrum](https://modrinth.com/mod/spectrum)																											|			|			|✔		|v2.1			|
 | [Spell Engine](https://modrinth.com/mod/spell-engine)																									|			|			|✔		|v2.1			|
