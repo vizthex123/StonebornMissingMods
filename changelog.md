@@ -9,6 +9,37 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v2.3
+
+### v2.3 - 1.20 only
+
+Added support for Botania's creative tab<br />
+Added missing decals to the terminals from Pretty Pipes<br />
+Blood Magic's JEI half-arrows are now a solid colour so they look a tad better
+Tweaked the progress arrow on Gendustry's Sampler, Imprinter, and Transposer
+
+Fixed Forestry's buttons not being textured<br />
+Fixed Thermal Series buttons not using the proper icon colour<br />
+Fixed a few incorrect pixels in the JEI Handler for the Thermal Series<br />
+Fixed several Railcraft Reborn blocks not using the proper icon colour<br />
+Fixed the search and scroll bars not being visible in Pretty Pipes' item terminal
+
+Crafting Tweaks fixes:
+- Added missing buttons
+- Fixed icons being the wrong colour
+- Fixed warning buttons missing their warning icon
+
+Mod support added:
+- Brick Hopper
+- Golden Hopper
+- Wooden Hopper
+- Travel Anchors
+- Iron Chests: Restocked
+- Mekanism's creative tabs (not really possible to cover the rest of the mod since 95% of UIs are done through code ffs)
+
+<br /> <br />
+
+--------------------------------------------------
 ## v2.2
 
 ### v2.2 - 1.20 only

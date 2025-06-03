@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: Suggest a mod we should add support for.
-title: "[Mod Support] "
+title: "[Suggestion] "
 labels: Suggestion
 assignees: vizthex123
 

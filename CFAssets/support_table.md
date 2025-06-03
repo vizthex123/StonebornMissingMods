@@ -14,6 +14,7 @@
 | [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors)																						|			|			|✔		|v2.0			|
 | [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)																								|✔		|			|✔		|v1.0			|
 | [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)																												|✔		|			|✔		|v1.0			|
+| [Brick Hopper](https://www.curseforge.com/minecraft/mc-mods/brick-hopper)																								|			|			|✔		|v2.3			|
 | [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)																				|			|			|✔		|v2.0			|
 | [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)																				|			|			|✔		|v2.0			|
 | [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks)																						|			|			|✔		|v2.0			|
@@ -29,7 +30,9 @@
 | [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) *(JEI category only)*														|✔		|✔		|✔		|v0.5			|
 | [Forestry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition)											|			|✔		|✔		|v1.1			|
 | [Gendustry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/gendustry-community-edition)									|			|			|✔		|v2.0			|
+| [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)																						|			|			|✔		|v2.3			|
 | [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)														|✔		|✔		|✔		|v1.0			|
+| [Iron Chests: Restocked](https://www.curseforge.com/minecraft/mc-mods/ironchests)																					|			|			|✔		|v2.3			|
 | [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)																		|			|			|✔		|v0.5			|
 | [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls)													|✔		|✔		|✔		|v1.2			|
 | [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)																													|			|			|✔		|v2.0			|
@@ -60,7 +63,6 @@
 | [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)																										|✔		|✔		|✔		|v1.0			|
 | [Simple Quarry](https://www.curseforge.com/minecraft/mc-mods/simple-quarry)																							|			|			|✔		|v2.2			|
 | [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)																				|✔		|✔		|✔		|v1.0			|
-| [Spectrum](https://www.curseforge.com/minecraft/mc-mods/spectrum)																											|			|			|✔		|v2.1			|
 | [Spell Engine](https://www.curseforge.com/minecraft/mc-mods/spell-engine)																									|			|			|✔		|v2.1			|
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)																			|			|			|✔		|v1.4.2		|
 | [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)																		|✔		|✔		|✔		|v0.1			|
@@ -71,6 +73,8 @@
 | [Thermal Extra](https://www.curseforge.com/minecraft/mc-mods/thermal-extra)																							|✔		|✔		|✔		|v0.1			|
 | [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)																			|✔		|✔		|✔		|v0.1			|
 | [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)																											|			|			|✔		|v1.4			|
+| [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)																						|			|			|✔		|v2.3			|
+| [Wooden Hopper](https://www.curseforge.com/minecraft/mc-mods/wooden-hopper)																					|			|			|✔		|v2.3			|
 | [Woodworks](https://www.curseforge.com/minecraft/mc-mods/woodworks)																									|✔		|✔		|✔		|v1.0			|
 
 <br />
@@ -91,6 +95,7 @@
 | [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors)													|			|			|✔		|v2.0			|
 | [Blood Magic](https://modrinth.com/mod/blood-magic)																									|✔		|			|✔		|v1.0			|
 | [Botania](https://modrinth.com/mod/botania)																													|✔		|			|✔		|v1.0			|
+| [Brick Hopper](https://modrinth.com/mod/brick-hopper)																								|			|			|✔		|v2.3			|
 | [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)											|			|			|✔		|v2.0			|
 | [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)											|			|			|✔		|v2.0			|
 | [Chicken Chunks](https://modrinth.com/mod/chicken-chunks)																						|			|			|✔		|v2.0			|
@@ -106,7 +111,9 @@
 | [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) *(JEI category only)*					|✔		|✔		|✔		|v0.5			|
 | [Forestry: Community Edition](https://modrinth.com/mod/forestry-community-edition)											|			|✔		|✔		|v1.1			|
 | [Gendustry: Community Edition](https://modrinth.com/mod/gendustry-community-edition)									|			|			|✔		|v2.0			|
+| [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)													|			|			|✔		|v2.3			|
 | [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)					|✔		|✔		|✔		|v1.0			|
+| [Iron Chests: Restocked](https://modrinth.com/mod/ironchests)																					|			|			|✔		|v2.3			|
 | [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing)																		|			|			|✔		|v0.5			|
 | [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls)													|✔		|✔		|✔		|v1.2			|
 | [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)																				|			|			|✔		|v2.0			|
@@ -137,7 +144,6 @@
 | [Scannable](https://modrinth.com/mod/scannable)																											|✔		|✔		|✔		|v1.0			|
 | [Simple Quarry](https://modrinth.com/mod/simple-quarry)																							|			|			|✔		|v2.2			|
 | [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)											|✔		|✔		|✔		|v1.0			|
-| [Spectrum](https://modrinth.com/mod/spectrum)																											|			|			|✔		|v2.1			|
 | [Spell Engine](https://modrinth.com/mod/spell-engine)																									|			|			|✔		|v2.1			|
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)										|			|			|✔		|v1.4.2		|
 | [Thermal Cultivation](https://modrinth.com/mod/thermal-cultivation)																			|✔		|✔		|✔		|v0.1			|
@@ -148,6 +154,8 @@
 | [Thermal Extra](https://modrinth.com/mod/thermal-extra)																							|✔		|✔		|✔		|v0.1			|
 | [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/thermal-systeams)										|✔		|✔		|✔		|v0.1			|
 | [TrashCan](https://www.curseforge.com/minecraft/mc-mods/trashcan)																		|			|			|✔		|v1.4			|
+| [Travel Anchors](https://modrinth.com/mod/travel-anchors)																							|			|			|✔		|v2.3			|
+| [Wooden Hopper](https://modrinth.com/mod/wooden-hopper)																					|			|			|✔		|v2.3			|
 | [Woodworks](https://modrinth.com/mod/woodworks)																									|✔		|✔		|✔		|v1.0			|
 
 <br />
