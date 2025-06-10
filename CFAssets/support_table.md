@@ -3,7 +3,7 @@
 |                                                                                               									            	   						 															| 1.18.2 | 1.19.2 | 1.20.1 | Resource Pack Version |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------|--------|-------------------------------|
 | [The modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2)																			|✔		|			|			|v1.0			|
-| [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)																											|			|			|✔		|v2.1			|
+| [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether) *(Quark backpack UIs only)*															|			|			|✔		|v2.1			|
 | [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon) *(JEI category only)*						|			|			|✔		|v1.4.1		|
 | [AdminShop Overhauled](https://www.curseforge.com/minecraft/mc-mods/adminshop)																				|			|			|✔		|v2.2			|
 | [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)                                                      				|			|			|✔		|v1.4			|
@@ -23,6 +23,7 @@
 | [Crafting Automat](https://www.curseforge.com/minecraft/mc-mods/crafting-automat)																				|✔		|			|✔		|v1.1			|
 | [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)																					|✔		|			|✔		|v1.2			|
 | [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)																												|			|        	|✔		|v1.4			|
+| [Custom Machinery](https://www.curseforge.com/minecraft/mc-mods/custom-machinery)																			|			|			|			|v1.0			|
 | [Deep Resonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)																					|			|			|✔		|v2.0			|
 | [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)																	|			|			|✔		|v1.4			|
 | [EnderIO](https://www.curseforge.com/minecraft/mc-mods/enderio)																												|			|			|✔		|v2.0			|
@@ -39,8 +40,8 @@
 | [LaserIO Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/laserio-uel)																	|			|			|✔		|v2.0			|
 | [Lightman's Currency](https://www.curseforge.com/minecraft/mc-mods/lightmans-currency)																		|✔		|✔		|✔		|v1.0			|
 | [Lightman's Currency Tech](https://www.curseforge.com/minecraft/mc-mods/lc-tech)																					|✔		|✔		|✔		|v1.0			|
-| [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)																													|✔		|✔		|✔		|v1.0			|
 | [Masterful Machinery](https://www.curseforge.com/minecraft/mc-mods/masterful-machinery)																	|			|			|✔		|v1.4.1		|
+| [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)																													|✔		|✔		|✔		|v1.0			|
 | [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)																					|			|			|✔		|v2.0			|
 | [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)																							|✔		|✔		|✔		|v0.5			|
 | [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)																									|			|			|✔		|v2.0			|
@@ -84,7 +85,7 @@
 |                                                                                               									            	   						 						| 1.18.2 | 1.19.2 | 1.20.1 | Resource Pack Version |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------|--------|-------------------------------|
 | [The modpack I made this for](https://www.curseforge.com/minecraft/modpacks/teoe-2)										|✔		|			|			|v1.0			|
-| [The Aether](https://modrinth.com/mod/aether)																												|			|			|✔		|v2.1			|
+| [The Aether](https://modrinth.com/mod/aether) *(Quark backpack UIs only)*															|			|			|✔		|v2.1			|
 | [Ad Astra: Giselle Addon](https://modrinth.com/mod/ad-astra-giselle-addon) *(JEI category only)*							|			|			|✔		|v1.4.1		|
 | [AdminShop Overhauled](https://modrinth.com/mod/adminshop)																				|			|			|✔		|v2.2			|
 | [Applied Energistics 2](https://modrinth.com/mod/ae2)                                                      				    						|			|			|✔		|v1.4			|
@@ -104,6 +105,7 @@
 | [Crafting Automat](https://www.curseforge.com/minecraft/mc-mods/crafting-automat)											|✔		|			|✔		|v1.1			|
 | [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks)																						|✔		|			|✔		|v1.2			|
 | [Curios API](https://modrinth.com/mod/curios)																												|			|        	|✔		|v1.4			|
+| [Custom Machinery](https://modrinth.com/mod/custom-machinery)																			|			|			|			|v1.0			|
 | [Deep Resonance](https://modrinth.com/mod/deep-resonance)																					|			|			|✔		|v2.0			|
 | [Dis-Enchanting Table](https://modrinth.com/mod/dis-enchanting-table)																		|			|			|✔		|v1.4			|
 | [EnderIO](https://modrinth.com/mod/enderio)																													|			|			|✔		|v2.0			|

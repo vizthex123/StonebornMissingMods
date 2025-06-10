@@ -4,14 +4,29 @@ A full changelog for every version (and sub-version) of the [resource pack](http
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
-I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch.
+I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch (as well as version ports so you can quickly navigate on Modrinth).
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
+
 --------------------------------------------------
 
-## v2.3
+## v3.0
 
-### v2.3 - 1.20 only
+*Probably gonna be the final update since I've decided this will only be for minor fixes, with mod support being added to [Stoneborn - Modded Compatibility](https://www.curseforge.com/minecraft/texture-packs/stoneborn-modded-compatibility).*
+
+Fixed the in-game icon not matching the CurseForge icon
+
+Fixed the anvil's crafting arrow's negative space being filled in (reported to base Stoneborn's author, hope he fixes it soon (alongside the inventory pixels that are *still* missing ffs))
+
+Moved support for all mods to [Stoneborn - Modded Compatibility](https://www.curseforge.com/minecraft/texture-packs/stoneborn-modded-compatibility)
+- Excludes the following mods: Vanilla fixes, Custom Machinery, Masterful Machinery, and Research Lab
+- Added minor fixes for Blue Skies and L_Ender's Cataclysm
+
+
+<br /> <br />
+
+--------------------------------------------------
+## v2.3
 
 Added support for Botania's creative tab<br />
 Added missing decals to the terminals from Pretty Pipes<br />
@@ -37,12 +52,11 @@ Mod support added:
 - Iron Chests: Restocked
 - Mekanism's creative tabs (not really possible to cover the rest of the mod since 95% of UIs are done through code ffs)
 
+
 <br /> <br />
 
 --------------------------------------------------
 ## v2.2
-
-### v2.2 - 1.20 only
 
 Finally got support for Quark's Crafter and Feeding Trough working (stupid things are stored in a different file path ffs)
 
@@ -61,12 +75,11 @@ Mod support added:
 - Research Lab
 - Simple Quarry
 
+
 <br /> <br />
 
 --------------------------------------------------
 ## v2.1
-
-### v2.1 - 1.20 only
 
 Changed support list to a support table
 - Makes things more readable & scalable
@@ -86,8 +99,6 @@ Added support for the following mods:<br />
 
 --------------------------------------------------
 ## v2.0
-
-### v2.0 - 1.20 only
 
 Compressed all the files - which is mostly irrelevant for the compressed version that you download, but oh well
 - I also tweaked a few random things in various files while doing this (mainly updating a bunch of icons so they're not jet black)
@@ -122,8 +133,6 @@ Added support for the following mods:
 --------------------------------------------------
 ## v1.4.2
 
-### v1.4.2 - 1.20 only
-
 *I missed more stuff ffs. I hate making tiny hotfixes, man ;-;*
 
 Fixed Crafting Automat's storage slots not rendering<br />
@@ -141,8 +150,6 @@ Added support for the following mods that I forgot to add in v1.4:
 --------------------------------------------------
 ## v1.4.1
 
-### v1.4.1 - 1.20 only
-
 *I missed a few things in v1.4, oof*
 
 Added support for the JEI category from Ad Astra: Giselle Addon<br />
@@ -153,8 +160,6 @@ Added support for Masterful Machinery
 
 --------------------------------------------------
 ## v1.4
-
-### v1.4 - 1.20 only
 
 Made the Curios slots for the Deep Learner, Jetpack, and Wallet use the same colours as base Stoneborn does for empty gear slots
 
@@ -181,8 +186,6 @@ Added support for the following mods:
 
 --------------------------------------------------
 ## v1.3
-
-### v1.3 - 1.20 only
 
 Fixed Lightman's Currency's wallet UIs not rendering properly if you used newer versions of the mod ([reported by DankestO](https://github.com/vizthex123/StonebornMissingMods/issues/1))
 
