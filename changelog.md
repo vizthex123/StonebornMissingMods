@@ -22,6 +22,11 @@ Moved support for all mods to [Stoneborn - Modded Compatibility](https://www.cur
 - Excludes the following mods: Vanilla fixes, Custom Machinery, Masterful Machinery, and Research Lab
 - Added minor fixes for Blue Skies and L_Ender's Cataclysm
 
+## v3.0 - 1.19
+
+
+## v3.0 - 1.18
+
 
 <br /> <br />
 
